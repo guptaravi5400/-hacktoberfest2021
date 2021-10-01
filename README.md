@@ -72,10 +72,10 @@ I have created a simple page to display all contributors list [here](https://hct
 
 ---
 
-# :handshake: Our Contributors
+<!-- # :handshake: Our Contributors
 <a href="https://github.com/hctnm2/Beginner-Hacktoberfest/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hctnm2/Beginner-Hacktoberfest" />
-</a>
+<!--   <img src="https://contrib.rocks/image?repo=hctnm2/Beginner-Hacktoberfest" /> -->
+<!-- </a> --> 
 
 # Recommended Repos 
 - https://github.com/hctnm1/HacktoberFest-Python/
